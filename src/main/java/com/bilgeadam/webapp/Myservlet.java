@@ -18,6 +18,6 @@ public class Myservlet extends HttpServlet
 
 	private String dbgetall()
 	{
-		return "merhaba abuziddddin";
+		return "merhaba abuzidin";
 	}
 }
